@@ -1,0 +1,8 @@
+Instructions to use the Tool
+1. At first you need to input a mathematical function which will be of any of the three forms:
+* A linear function with the constant term lying between -12 and +12.
+* A polynomial of maximum degree three with the constant term lying between -12 and +12.
+* Function of the form a*e^(b*x), a*sin(b*x), a*cos(b*x)
+* A polynomial function in x involving log(x)
+2. After entering the function, the tool will display the output. To change the view, use the option given.
+3. Once done with a particular function use the reset button on the screen or the menu to start with a new function.
